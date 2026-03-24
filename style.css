@@ -86,7 +86,7 @@ margin-top: 8px;
     animation: slide-in 0.2s forwards;
 }
 
-switch button :hover {
+#switch button:hover {
     outline: 8px solid var(--highlight-color);
 }
 
